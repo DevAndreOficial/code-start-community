@@ -33,7 +33,7 @@ Uma comunidade no **WhatsApp** dedicada a aprender **desenvolvimento web na prá
 
 ## 👥 Como participar?
 
-1. Junte-se ao nosso grupo no WhatsApp.  
+1. [Junte-se ao nosso grupo no WhatsApp](https://chat.whatsapp.com/H5YShE4YLXq53xePY18fQw?mode=ems_copy_t) 📱  
 2. Apresente-se para a comunidade.  
 3. Escolha um projeto para começar.  
 4. Compartilhe suas dúvidas, aprendizados e conquistas. 🎉  
